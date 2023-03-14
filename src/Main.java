@@ -1,8 +1,8 @@
 public class Main {
 
     public static void main(String[] args) {
-//        int fac = factorial(4);
-//        System.out.println(fac);
+        int fac = factorial(4);
+        System.out.println(fac);
         int[] result = {1, 3, 5};
         System.out.println(sumOfEvenNum(result));
     }
